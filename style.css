@@ -8,7 +8,8 @@ body{
     padding: 0;
     overflow-x: hidden;
     font-family: Arial, Helvetica, sans-serif !important;
-    
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .distracted{
@@ -20,3 +21,6 @@ color: black !important;
 background-color: rgba(152, 149, 149, 0.476) !important;
 }
 
+#counter{
+    font-size: 50px;
+}
